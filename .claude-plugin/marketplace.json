@@ -1,0 +1,14 @@
+{
+  "name": "social-media-research-skills",
+  "owner": {"name": "SocialScrape", "url": "https://scrape.mimic.host"},
+  "metadata": {
+    "description": "YouTube, TikTok, and Instagram research skills for AI agents powered by SocialScrape",
+    "version": "1.0.0",
+    "repository": "https://github.com/vyctncao/social-media-research-skills"
+  },
+  "plugins": [{
+    "name": "social-media-research-skills",
+    "description": "Practical YouTube, TikTok, and Instagram research workflows powered by SocialScrape.",
+    "source": "./"
+  }]
+}
